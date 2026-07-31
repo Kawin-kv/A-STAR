@@ -1,5 +1,5 @@
 <h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
-<h3>Name: Kawin K V/h3>
+<h3>Name: Kawin K V </h3>
 <h3>Register Number: 212225040181</h3>
 <H3>Aim:</H3>
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
@@ -214,9 +214,10 @@ Path found: ['A', 'E', 'D', 'G']
 
 <h3>Original Output</h3>
 
-![alt text](image.png)
+<img width="1635" height="783" alt="image" src="https://github.com/user-attachments/assets/48fc982d-7e59-47d3-852d-b06ef1816734" />
 
-![alt text](image-1.png)
+
+<img width="1630" height="511" alt="image" src="https://github.com/user-attachments/assets/cd34e497-1b63-427d-a11b-6dbe49f1f907" />
 
 <h3>Result:</h3>
 <hr>
